@@ -6,7 +6,7 @@
 - __GPA__ : 2,98 (hết kì 6 năm 3).
 
 ## Kỹ năng lập trình.
-- __Java__ :  cơ bản, lập trình OOP.
+- __Java__ :  javacore, OOP.
 - __C#__ :
     + Lập trình logic game, UI trong game.
     + Hiểu và biết cách sử dụng các component trong Unity engine cũng như hiểu được cấu trúc ECS ( Entity-Component-Systems ).
@@ -16,8 +16,7 @@
     + [Dev](https://github.com/INT22083-HTTN/Wallets-Happy) và [Deploy](https://happywallets.herokuapp.com/) một ứng dụng cơ bản trên heroku phục vụ việc học RoR.
     + Có sử dụng tool hỗ trợ quản lý dự án là [pivotaltracker](https://www.pivotaltracker.com).
 - __JavaScript__ :
-    + Lập trình game với framework phaser.
-    + Biết cách sử dụng Jquery để lập trình phía client-side.
+    + Lập trình game với framework phaser, sử dụng thư viện underscore, backbone, lodash.
     + Đang học lập trình phía server với nodejs.
     + Đang tiếp cận và học cách sử dụng framework Angular 2.0.
 - Sử dụng thành thạo các công cụ SVN.
